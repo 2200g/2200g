@@ -2,7 +2,7 @@
 
 ## Hallo there! 👋
 
-My name is 2200g, Welcome to my blog!
+My name is 2200g, Welcome to my Github Profile!!
 
 I’m a Web Developer, a Minecraft PvP enthusiast and a Pokemon Fan. I like making websites and playing Minecraft w/ my friends in my free time. I also love reading crime novels.
 
