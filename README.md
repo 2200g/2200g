@@ -1,15 +1,13 @@
 
 
-## Hallo there! 👋
+## Hallo
 
-My name is 2200g, Welcome to my Github Profile!!
-
-I’m a Web Developer, a Minecraft PvP enthusiast and a Pokemon Fan. I like making websites and playing Minecraft w/ my friends in my free time. I also love reading crime novels. Oh yeah, I'm getting into Competitive Pokemon too :)
-
+Minecraft IGN: 2200g
+YouTube: https://youtube.com/c/2200g
 
 
 
-*-2200g*
+*-g*
 
 <!--
 **2200g/2200g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
