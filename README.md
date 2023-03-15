@@ -2,13 +2,7 @@
 
 ## Hallo 
 
-Minecraft IGN: 2200g
 
-YouTube: https://youtube.com/c/2200g
-
-
-
-*-g*
 
 <!--
 **2200g/2200g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
